@@ -2,14 +2,13 @@
 
 # <============================================== WorldCup 2026 ===========================================================>
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7qgs8BY/images-d47abaf70fb3ea50af7cdf455ccab5a6-goplay-bioscope-icon-transparent-app.png" ,Bioscope 
+#EXTINF:-1 group-title="WORLDCUP" ,Bioscope 
 http://sm-monirul.top/ott/bioscope/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.somoynews.tv/icon.png" , Somoy TV
+#EXTINF:-1 group-title="WORLDCUP" , Somoy TV
 http://ubuntu.moonplex.net:8080/Somoy_TV/index.m3u8
-#EXTINF:-1 tvg-id="t sports" tvg-name="T-Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="world cup",Football World Cup
-http://114.130.57.233:8080/BTV/video.m3u8?token=SkQuhAXZxgBan1
-#EXTINF:-1 tvg-name="Football World Cup 2026 link hindi" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="Football World Cup 2026",Football World Cup
+#EXTINF:-1 
+#EXTINF:-1 group-title="WORLDCUP",Football World Cup
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745195.ts
 
 #####NATIONAL#####
