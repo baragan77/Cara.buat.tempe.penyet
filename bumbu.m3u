@@ -565,7 +565,8 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/in
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 http://202.169.224.202:8800/udp/239.9.1.32:1234
 
-
+#EXTINF:-1 group-title="SPORTS", TVRI WORLD
+http://202.169.224.202:8800/udp/239.1.2.2:1234
 
 ######---------
 
