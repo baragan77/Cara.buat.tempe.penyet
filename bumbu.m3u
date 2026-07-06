@@ -2,8 +2,12 @@
 
 # <============================================== WorldCup 2026 ===========================================================>
 
-#EXTINF:-1 group-title="WORLDCUP" ,Bioscope 
-http://sm-monirul.top/ott/bioscope/index.m3u8
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/7d01zx1782848875.jpg/medium" group-title="WORLDCUP" tvg-id="001" tvg-name="016-LABURATV", BRAZIL VS NORWEGIA PV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb
+https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd
+
 
 #EXTINF:-1 group-title="WORLDCUP" , BS 1
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
