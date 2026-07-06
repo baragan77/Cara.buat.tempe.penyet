@@ -15,6 +15,10 @@ https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
 #EXTINF:-1 group-title="WORLDCUP",Football World Cup
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745195.ts
 
+#EXTINF:-1 group-title="WORLDCUP", bein arab
+https://cp11.adabmedia.com/hls2/sport.m3u8
+
+
 #####NATIONAL#####
 #EXTINF:-1 group-title="NATIONAL", ANTV(V+)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
