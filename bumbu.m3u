@@ -2,11 +2,12 @@
 
 # <============================================== WorldCup 2026 ===========================================================>
 
-#EXTINF:-1 group-title="WORLDCUP" tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png", D SPORTS 🇦🇷
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4f4c3a9912ea752e88f4497864a1bc8b:278128004fe8c6ffb2cd2a0c154a241a
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd
+
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/1kp4vp1783751531.jpg/medium" group-title="WORLDCUP" tvg-id="001" tvg-name="016-LABURATV", PERANCIS VS SPANYOL PV
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/worldcup26-2-0707
+#EXTVLCOPT:http-origin=https://xyzstreams.st/worldcup26-2-0707
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://103.165.93.31:8095/tsports/video.m3u8
 
 
 
